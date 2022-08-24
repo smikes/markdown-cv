@@ -1,91 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sam Mikes
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Sam Mikes
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="smikes@cubane.com">smikes@cubane.com</a>
+&nbsp; +1 780 974 2536
+</div> 
 
+## Apple 
 
-## Currently
+### 2021
+Manager, ACS Traffic Secure Networking Development
+- Led major recruitment effort after original product team moved on, leaving core of 3
+- Hired 6 developers between 2021-11 and 2022-09
+- Coordinated urgent release of previously-completed enterprise-critical features
+- Led investigation, diagnosis, and resolution of serious production-impacting issues 
+- Senior member of on-call rotation supporting production
 
-Standing on the shoulders of giants
+### 2017
+Manager, subteam
+- Under senior manager, performed people management; hired 5 developers 2017-2021
+- Led subteam to develop secure networking software deployed on >170,000 servers
+- Presented briefing, training, pitch decks to potential customers, executives, and partners
+- Managed relationships with partner teams such as SRE, deployment, security
+- Cultivated customer relationships, feature planning, and issue management
+- Senior member of on-call rotation supporting production
 
-### Specialized in
+### 2015
+Developer
+- Joined new project to deliver transparent secured networking using IPsec between hosts
+- Contributed to design, planning, presentation of initial effort
+- Owned one component (service cache) and also contributed software to overall effort
+- Led qualification and testing, including hands-on work (extending lab in Camrose office)
+- Collaborated with SRE organization on operations, telemetry, alerting
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Cubane
+Personal software contracting company
 
+### ECMA Test-262
+Industry organization defining Javascript language
+- Contributed tests to JavaScript (TC39) conformance suite.
+- Organized and rationalized test classification (frontmatter)
 
-### Research interests
+### npmjs.org
+Open-source project supporting Javascript package manager
+- Contributed to issue tracker/forums
+- Built community and reduced open issues by 30%
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Data South Systems, Inc.
+- Reverse-engineered proprietary file formats
+- Wrote code to enable read-only view of current and historical process data
+- At Shell Scotford 
+  * increased historian graphic coverage from 30% to 100% 
+  * reduced delay in upgrader expansion startup
 
+### G. Michaels Consulting Ltd.
+- Reverse-engineered proprietary file formats
+- Responsible for flagship product, documentation compiler for process control systems
+- Introduced software develoment practices such as source code control, issue tracking
+- Supported sales efforts, trade shows, customer events and training
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1998-1999`
+__University of California, Berkeley, USA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Ph.D. Student, National Science Foundation Graduate Research Fellowship
 
-- Sizar
+`1997-1998`
+__Lunds Universitet, Lund, Sweden__
 
-`1667 - death`
-__Trinity College, Cambridge__
+Graduate Student, Fulbright Scholar
 
-- Fellow
+`1994-1997`
+__Harvey Mudd College, Claremont, USA__
 
+- B. Sc. in Chemistry, minor in Linguistics
+- President, Associated Students of HMC 1996-7
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Personal
+- citizen of Canada
+- volunteer president of Edmonton Childrens' Choir 2018-2022
+- volunteer president of community league 2021-
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2022 -->
 
 
