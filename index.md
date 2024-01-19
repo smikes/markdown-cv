@@ -4,7 +4,7 @@ title: Sam Mikes
 ---
 # Sam Mikes
 <div id="webaddress">
-<a href="smikes@cubane.com">smikes@cubane.com</a>
+<a href="smikes@smikes.dev">smikes@smikes.dev</a>
 &nbsp; +1 780 974 2536
 </div> 
 
